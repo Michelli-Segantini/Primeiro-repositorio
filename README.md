@@ -8,4 +8,4 @@ Este foi meu primeiro repositório remoto com o GitHub!
 - GitHub
 - SSH
 
-Confira meu perfil em: [Michelli-Segantini](https://github.com/Michelli-Segantini)
+Confira meu perfil em [Michelli-Segantini](https://github.com/Michelli-Segantini)
